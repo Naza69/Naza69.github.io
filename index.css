@@ -31,3 +31,11 @@
     background-color: chartreuse;
     border: 0.3vh solid black;
 }
+
+@media screen and (max-width: 768px) {
+    .containerPrincipal {
+        margin-inline: 10px;
+        text-align: center;
+    }
+
+}
