@@ -1,0 +1,33 @@
+.containerPrincipal {
+    margin-top: 190px;
+    margin-inline: 250px;
+    border: 0.5vh solid black;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.paragraph {
+    margin-bottom: 30px;
+    margin-inline: 100px;
+}
+
+.aDownload {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    width: 170px;
+    height: 30px;
+    margin-bottom: 20px;
+    border: 0.2vh solid gray;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.aDownload:hover {
+    color: black;
+    background-color: chartreuse;
+    border: 0.3vh solid black;
+}
